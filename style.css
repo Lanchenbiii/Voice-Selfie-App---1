@@ -1,0 +1,28 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:2px solid rgb(54, 231, 78);
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#textbox
+{
+    width: 300px;
+}
+.bgg{
+    background-color: rgb(208, 150, 235);
+}
+.anti{
+    color: rgb(243, 245, 241);
+}
+.selfie{
+    color: rgb(113, 240, 223);
+}
