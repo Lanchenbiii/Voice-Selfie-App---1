@@ -6,7 +6,7 @@
 {
     width:360px;
     height: 250px;
-    border:2px solid rgb(30, 190, 177);
+    border:2px solid rgb(190, 30, 30);
 }
 #logo_img
 {
@@ -17,14 +17,6 @@
 {
     width: 300px;
 }
-.bgg{
-    background-color: rgb(255, 255, 255);
-}
-.selfie{
-    color: cadetblue;
-}
-.anti{
-    color: cadetblue;
-}
+
 
 
